@@ -39,28 +39,27 @@ namespace Procvičování_metody_2
 
         void SmazatCislice(string vstup)
         {
-            string cislice = "0123456789";
-            char[] poleBezCislic = new char[vstup.Length];
-            foreach(char znak in vstup)
+            string cifry = "0123456789";
+            while (vstup.Contains("  "))
             {
-                if (cislice.Contains(znak))
-                {
-                    
-                }
-                else
-                {
-                    for (int i = 0; i < vstup.Length; i++)
-                    {
-                        poleBezCislic[i] = znak;
-                    }
-                }
+                vstup = vstup.Replace("  ", " ");
             }
-            poleBezCislic.ToString();
+            foreach (char c in cifry)
+            {
+                if (vstup.Contains(c)) vstup = vstup.Replace(c.ToString(), "");
+            }
+            string[] slova = vstup.Split(' ');
+            foreach (string slovo in slova)
+            {
+                listBox1.Items.Add(slovo);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            listBox1.Items.Clear();
+            string vstup = textBox1.Text;
+            SmazatCislice(vstup);
         }
 
         private void button4_Click(object sender, EventArgs e)
