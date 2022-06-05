@@ -21,3 +21,16 @@ C:\Users\Nadupaná mašina\Source\Repos\Samostatne-cviceni-metody\Procvičován�
 C:\Users\Nadupaná mašina\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.csproj.CoreCompileInputs.cache
 C:\Users\Nadupaná mašina\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.exe
 C:\Users\Nadupaná mašina\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.pdb
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\bin\Debug\Procvičování metody 2.exe.config
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\bin\Debug\Procvičování metody 2.exe
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\bin\Debug\Procvičování metody 2.pdb
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.csproj.AssemblyReference.cache
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování_metody_2.Form1.resources
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování_metody_2.Form2.resources
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování_metody_2.Menu.resources
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování_metody_2.Properties.Resources.resources
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.csproj.GenerateResource.cache
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.csproj.CoreCompileInputs.cache
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.exe
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování metody 2.pdb
+C:\Users\Antonín Štolfa\Source\Repos\Samostatne-cviceni-metody\Procvičování metody 2\Procvičování metody 2\obj\Debug\Procvičování_metody_2.Form3.resources
